@@ -1,25 +1,21 @@
 # WPF Property Grid - Show ToolTips in the New Item Menu
 
-This is the repository template for creating new examples. Describe the solved task here.
+This example shows how use the PropertyGridControl.MenuOpening event to add tooltips to items displayed in the **Issues** collection’s new item menu.
 
-Put a screenshot that illustrates the result here.
-
-Then, add implementation details (steps, code snippets, and other technical information in a free form), or add a link to an existing document with implementation details. 
+![image](https://user-images.githubusercontent.com/65009440/197530011-bde10072-a2b7-4bcc-88bf-560c0c0d00b9.png)
 
 ## Files to Review
 
-- link.cs (VB: link.vb)
-- link.js
-- ...
+- [MainWindow.xaml](./CS/PropertyGridMenuOpening/MainWindow.xaml) (VB: link.vb)
+- [MainWindow.xaml.cs](./CS/PropertyGridMenuOpening/MainWindow.xaml.cs) (VB: link.vb)
+- [Issues.cs](./CS/PropertyGridMenuOpening/Issues.cs) (VB: link.vb)
 
 ## Documentation
 
-- link
-- link
-- ...
+- PropertyGridControl.MenuOpening
+- [Collection Definitions](https://docs.devexpress.com/WPF/15719/controls-and-libraries/property-grid/property-definitions/collection-definitions)
+- Grid Menus
 
 ## More Examples
 
-- link
-- link
-- ...
+- [How to: Add an Object with Predefined Property Values using the Collection Editor](https://github.com/DevExpress-Examples/how-to-add-an-object-with-predefined-property-values-using-the-collection-editor-e4855)
