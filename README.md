@@ -23,3 +23,4 @@ This example shows how use the PropertyGridControl.MenuOpening event to add tool
 ## More Examples
 
 - [How to: Add an Object with Predefined Property Values using the Collection Editor](https://github.com/DevExpress-Examples/how-to-add-an-object-with-predefined-property-values-using-the-collection-editor-e4855)
+- [How to: Customize Items in the Property Menu](https://github.com/DevExpress-Examples/how-to-customize-items-in-the-property-menu-t324101)
