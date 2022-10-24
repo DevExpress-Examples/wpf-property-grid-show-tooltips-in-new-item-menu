@@ -1,4 +1,4 @@
-# Product/Platform - Task
+# WPF Property Grid - Show ToolTips in the New Item Menu
 
 This is the repository template for creating new examples. Describe the solved task here.
 
