@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # WPF Property Grid - Show Tooltips in the New Item Menu
 
-This example uses the [PropertyGridControl.MenuOpening](https://docs.devexpress.com/WPF/DevExpress.Xpf.PropertyGrid.PropertyGridControl.MenuOpening?v=22.2) event to add tooltips to items displayed in the **Issues** collection’s new item menu.
+This example uses the [PropertyGridControl.MenuOpening](https://docs.devexpress.com/WPF/DevExpress.Xpf.PropertyGrid.PropertyGridControl.MenuOpening?v=22.2) event to add tooltips to items displayed in the **Issues** collection’s new item menu. 
 
 ![image](https://user-images.githubusercontent.com/65009440/197530011-bde10072-a2b7-4bcc-88bf-560c0c0d00b9.png)
 
@@ -23,6 +23,7 @@ This example uses the [PropertyGridControl.MenuOpening](https://docs.devexpress.
 
 ## More Examples
 
+- [WPF Property Grid - Specify Custom Collection Edit Actions](https://github.com/DevExpress-Examples/wpf-property-grid-specify-custom-collection-edit-actions)
 - [How to: Add an Object with Predefined Property Values using the Collection Editor](https://github.com/DevExpress-Examples/how-to-add-an-object-with-predefined-property-values-using-the-collection-editor-e4855)
 - [How to: Customize Items in the Property Menu](https://github.com/DevExpress-Examples/how-to-customize-items-in-the-property-menu-t324101)
 - [How to: Set a Property to a Custom Value via the Popup Menu](https://github.com/DevExpress-Examples/how-to-set-a-property-to-a-custom-value-via-the-popup-menu-t135069)
