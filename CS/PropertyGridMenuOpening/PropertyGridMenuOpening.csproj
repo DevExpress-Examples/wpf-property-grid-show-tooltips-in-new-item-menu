@@ -1,15 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFrameworks>net6.0-windows;net472</TargetFrameworks>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
-
   <ItemGroup>
-    <PackageReference Include="DevExpress.Wpf.Core" Version="22.2.*-*" />
-    <PackageReference Include="Devexpress.Wpf.PropertyGrid" Version="22.2.*-*" />
-    <PackageReference Include="DevExpress.Wpf.Themes.All" Version="22.2.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Core" Version="24.2.*-*" />
+    <PackageReference Include="Devexpress.Wpf.PropertyGrid" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.All" Version="24.2.*-*" />
   </ItemGroup>
-
 </Project>
