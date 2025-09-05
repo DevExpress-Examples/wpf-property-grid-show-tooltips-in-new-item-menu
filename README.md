@@ -6,7 +6,7 @@
 <!-- default badges end -->
 # WPF Property Grid - Show Tooltips in the New Item Menu
 
-This example uses the [PropertyGridControl.MenuOpening](https://docs.devexpress.com/WPF/DevExpress.Xpf.PropertyGrid.PropertyGridControl.MenuOpening?v=22.2) event to add tooltips to items displayed in the **Issues** collection’s new item menu.
+This example uses the [PropertyGridControl.MenuOpening](https://docs.devexpress.com/WPF/DevExpress.Xpf.PropertyGrid.PropertyGridControl.MenuOpening) event to add tooltips to items displayed in the **Issues** collection’s new item menu.
 
 ![image](https://user-images.githubusercontent.com/65009440/197530011-bde10072-a2b7-4bcc-88bf-560c0c0d00b9.png)
 
@@ -18,9 +18,9 @@ This example uses the [PropertyGridControl.MenuOpening](https://docs.devexpress.
 
 ## Documentation
 
-- [PropertyGridControl.MenuOpening](https://docs.devexpress.com/WPF/DevExpress.Xpf.PropertyGrid.PropertyGridControl.MenuOpening?v=22.2)
+- [PropertyGridControl.MenuOpening](https://docs.devexpress.com/WPF/DevExpress.Xpf.PropertyGrid.PropertyGridControl.MenuOpening)
 - [Collection Definitions](https://docs.devexpress.com/WPF/15719/controls-and-libraries/property-grid/property-definitions/collection-definitions)
-- [Grid Menus](https://docs.devexpress.com/WPF/15631/controls-and-libraries/property-grid/visual-elements/grid-menus?v=22.2)
+- [Grid Menus](https://docs.devexpress.com/WPF/15631/controls-and-libraries/property-grid/visual-elements/grid-menus)
 
 ## More Examples
 
@@ -34,3 +34,4 @@ This example uses the [PropertyGridControl.MenuOpening](https://docs.devexpress.
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
