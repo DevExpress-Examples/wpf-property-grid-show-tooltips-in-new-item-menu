@@ -28,7 +28,7 @@ This example uses the [PropertyGridControl.MenuOpening](https://docs.devexpress.
 - [WPF PropertyGrid - Add an Item to a Collection or a Dictionary](https://github.com/DevExpress-Examples/wpf-propertygrid-add-an-item-to-a-collection-or-a-dictionary)
 - [How to: Set a Property to a Custom Value via the Popup Menu](https://github.com/DevExpress-Examples/how-to-set-a-property-to-a-custom-value-via-the-popup-menu-t135069)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-property-grid-show-tooltips-in-new-item-menu&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-property-grid-show-tooltips-in-new-item-menu&~~~was_helpful=no)
 
