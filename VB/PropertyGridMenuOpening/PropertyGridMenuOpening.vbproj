@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OptionInfer>On</OptionInfer>
     <OutputType>WinExe</OutputType>
-    <TargetFrameworks>net8.0-windows</TargetFrameworks>
+    <TargetFrameworks>net10.0-windows</TargetFrameworks>
     <UseWPF>true</UseWPF>
     <EnableDefaultApplicationDefinition>false</EnableDefaultApplicationDefinition>
     <RootNamespace />
@@ -12,8 +12,8 @@
     <ApplicationDefinition Include="App.xaml" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.Wpf.Core" Version="24.2.*-*" />
-    <PackageReference Include="Devexpress.Wpf.PropertyGrid" Version="24.2.*-*" />
-    <PackageReference Include="DevExpress.Wpf.Themes.All" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Core" Version="26.1.*-*" />
+    <PackageReference Include="Devexpress.Wpf.PropertyGrid" Version="26.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.All" Version="26.1.*-*" />
   </ItemGroup>
 </Project>
